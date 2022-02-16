@@ -12,5 +12,10 @@ namespace TestProject2
         {
             return Math.PI * r * (2 * h + Math.Sqrt(2 * h * r - Math.Pow(h,2)));
         }  
+
+        public void css()
+        {
+            Console.WriteLine("wwww");
+        }
     }
 }
