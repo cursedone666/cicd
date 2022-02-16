@@ -15,7 +15,7 @@ namespace TestProject2
 
         public void css()
         {
-            Console.WriteLine("wwwwiwi");
+            Console.WriteLine("87");
         }
     }
 }
