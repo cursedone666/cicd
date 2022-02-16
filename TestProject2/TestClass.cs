@@ -15,7 +15,7 @@ namespace TestProject2
 
         public void css()
         {
-            Console.WriteLine("srabotai");
+            Console.WriteLine("dfgdfhdfhdhfhdf");
         }
         
     }
